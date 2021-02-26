@@ -1,2 +1,7 @@
-Airline Database Model created using relational schema given below.
+## Airline Database Model
 
+Model is created given relational schema below.
+<p align="center">
+       <img src="https://imgur.com/i7E6J2w" width="400" height="400" align = center>
+       <p align="center"> <i>Expression Tree</i> </p>
+</p>
